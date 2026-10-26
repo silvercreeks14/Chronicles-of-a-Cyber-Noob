@@ -6,7 +6,7 @@ This repository serves as a public portfolio documenting my evolution in the cyb
 
 ## 🗂️ Repository Structure
 
-*   **`/Threat-Analyses`**: Deep dives into current malware, ransomware variants, and APT campaigns.
+*   **`/Threat-Analysis`**: Deep dives into current malware, ransomware variants, and APT campaigns.
 *   **`/Concept-Summaries`**: Technical breakdowns of core cybersecurity concepts, protocols, and architectures.
 *   **`/Bootcamp-Challenges`**: Walkthroughs, CTF write-ups, and practical applications from my ongoing training.
 
